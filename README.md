@@ -22,6 +22,6 @@ Marcelo de Souza (2022), Notas de Aula: Engenharia de Software Orientada a Agent
     author =       {Marcelo de Souza}, 
     howPublished = {\url{https://github.com/souzamarcelo/course-agents}}, 
     year =         {2022},
-    note =         {Creative Commons BY-NC-ND 4.0.}
+    note =         {Creative Commons BY-NC-ND 4.0}
 }
 ```
